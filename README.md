@@ -135,7 +135,8 @@ This section showcases my practical work and learning projects across different 
 
 ## 📬 Let's Connect
 
-* **LinkedIn:** [Connect with me](YOUR_LINKEDIN_PROFILE_URL)
+* **LinkedIn:** [Connect with me](<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/816dcef9-01ba-4e1a-8f31-5c2a167979dd" />
+)
 * **GitHub:** [Explore my repositories](YOUR_GITHUB_PROFILE_URL)
 
 ---
