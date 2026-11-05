@@ -132,10 +132,10 @@ This section showcases my practical work and learning projects across different 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=github_dark\&hide_border=true)
 
 ---
+
 ## 📬 Let's Connect
 
-- 💼 **LinkedIn:** [Connect with me](
-linkedin.com/in/divyanshi-singh17)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/divyanshi-singh17/)
 - 💻 **GitHub:** [Explore my repositories](https://github.com/divyanshi-singh-17)
 
 ⭐ Thank you for visiting my portfolio!
