@@ -29,10 +29,4 @@ jobs:
           plugin_languages_sections: most-used
           filename: github-metrics.svg
 
-      - name: Commit stats
-        run: |
-          git add github-metrics.svg
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git commit -m "Update GitHub stats" || exit 0
-          git push
+      
