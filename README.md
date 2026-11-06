@@ -16,6 +16,7 @@ I am focused on strengthening my technical expertise through continuous learning
 * [About Me](#-about-me)
 * [Technical Skills](#-technical-skills)
 * [Education](#-education)
+* [📄 Resume](#-resume)
 * [Projects](#-projects)
 * [Areas of Interest](#-areas-of-interest)
 * [Current Focus](#-current-focus)
@@ -89,6 +90,12 @@ Training Mode: Offline Classroom Training
 
 ---
 
+## 📄 Resume
+
+[View My Resume](Divyanshi_Singh_Resume.pdf)
+
+---
+
 ## 📊 Projects
 
 This section showcases my practical work and learning projects across different technical domains.
@@ -127,9 +134,9 @@ This section showcases my practical work and learning projects across different 
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=github_dark\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshi-singh-17&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=github_dark\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshi-singh-17&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
