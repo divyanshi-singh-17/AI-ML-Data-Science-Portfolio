@@ -99,7 +99,7 @@ Training Mode: Offline Classroom Training
 | 2 | Python | Kaggle | [🔗 View Certificate](https://www.kaggle.com/learn/certification/divyanshisingh17/python) |
 | 3 | Introduction to MS Excel | Simplilearn | [🔗 View Certificate](https://simpli-web.app.link/e/mzb2XeHxQ4b) |
 | 4 | Introduction to Programming Using Python | Infosys Springboard | [🔗 View Certificate](https://verify.onwingspan.com/) |
-| 5 | Data Science Professional | Ducat India | [🔗 View Certificate](https://github.com/divyanshi-singh-17/AI-ML-Data-Science-Portfolio/blob/main/Ducat-Certificate.pdf) |
+| 5 | Data Science Professional | Ducat India | [🔗 View Certificate](https://github.com/divyanshi-singh-17/AI-ML-Data-Science-Portfolio/blob/main/Divyanshi_Singh%20Ducat%20Certificate.png) |
 
 ---
 
