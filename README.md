@@ -16,7 +16,8 @@ I am focused on strengthening my technical expertise through continuous learning
 * [About Me](#-about-me)
 * [Technical Skills](#-technical-skills)
 * [Education](#-education)
-* [📄 Resume](#-resume)
+* [Certifications](#-certifications)
+* [Resume](#-resume)
 * [Projects](#-projects)
 * [Areas of Interest](#-areas-of-interest)
 * [Current Focus](#-current-focus)
@@ -87,6 +88,20 @@ CGPA: 8.06
 
 DUCAT, Gurgaon, Haryana
 Training Mode: Offline Classroom Training
+
+---
+
+## 🏆 Certifications
+
+| # | Certificate | Issuer | Link |
+| :---: | :--- | :--- | :--- |
+| 1 | Intro to Machine Learning | Kaggle | [🔗 View Certificate](https://www.kaggle.com/learn/certification/divyanshisingh17/intro-to-machine-learning) |
+| 2 | Python | Kaggle | [🔗 View Certificate](https://www.kaggle.com/learn/certification/divyanshisingh17/python) |
+| 3 | Introduction to MS Excel | Simplilearn | [🔗 View Certificate](https://simpli-web.app.link/e/mzb2XeHxQ4b) |
+| 4 | Introduction to Programming Using Python | Infosys Springboard | [🔗 View Certificate](https://verify.onwingspan.com/) |
+| 5 | Data Science Professional | Ducat India | [🔗 View Certificate](https://ducatindia.com/download-certificate) |
+
+---
 
 ---
 
