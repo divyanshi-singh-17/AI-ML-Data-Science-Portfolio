@@ -144,7 +144,7 @@ This section showcases my practical work and learning projects across different 
 * Practicing Machine Learning algorithms.
 * Exploring real-world Data Science applications.
 * Building practical projects and improving problem-solving abilities.
-
+Continuously learning and building projects in AI, Machine Learning & Data Science.
 
 ---
 
